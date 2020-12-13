@@ -1,0 +1,522 @@
+.collapse ul a {
+    color: white !important;
+    font-weight: bold;
+}
+
+.dropdown-menu {
+    background-color: white;
+}
+
+.dropdown-menu .dropdown-item {
+    color: black !important;
+    opacity: 0.6;
+}
+
+.custom {
+    background-color: black;
+    padding-top: 19px;
+}
+
+.custom-for {
+    opacity: 0.6;
+    margin-right: 19px;
+    padding-right: 6px;
+    padding-top: 5px;
+    font-size: 17px;
+}
+
+.dropdown-toggle {
+    text-decoration: none !important;
+    color: white !important;
+    font-weight: bold;
+}
+
+
+
+/* =======================imgggg==center=====heading============================ */
+
+
+.img{
+    background-image: url("texture.png");
+background-color: #303030;
+
+}
+.clo{
+    color: white;
+    margin-top: 23px;
+    text-align: center;
+    margin-bottom: 22px;
+    
+}
+.button{
+    padding: 4px 19px;
+    border-radius: 4px;
+    text-decoration: none;
+    background-color: #3371e3;
+    color: white;
+}
+
+.button:hover{
+    text-decoration: none;
+}
+/* ============black lives=============== */
+
+
+.bk{
+    background-color: black;
+    color: white;
+}
+.hh{
+    padding-top: 112px;
+}
+.pp{
+    padding-bottom: 16px;
+    margin-bottom: 0px;
+}
+
+
+
+/* ======================= */
+.cont {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/* ==================================== */
+
+
+/* .rev{
+    display: flex;
+    flex-direction: column-reverse;
+} */
+
+
+
+@media screen and (max-width:750px)
+{
+    .rev{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
+
+
+/* =========================================== */
+
+
+.twee{
+    background-image: url("kub_video_banner_homepage.jpg");
+    background-size: 100% 100%;
+}
+.videochg{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.videohg{
+    position: absolute;
+    right: 247px;
+   color: white;
+   top: 40px;
+}
+.videoby{
+    position: absolute;
+    right: 134px ;
+    top: 120px;
+    color: white;
+    
+   font-size: 15px;
+}
+
+.buttonn{
+    position: absolute;
+    right: 390px;
+    background-color: white;
+    padding: 15px 50px;
+    border-radius: 5px;
+    font-size: 18px;
+    top: 175px;
+}
+.avideo{
+    position: absolute;
+    right: 200px;
+    top: 250px;
+    background-color: #303030;
+    padding: 11px 16px;
+    border-radius: 5px;
+}
+
+.aavideo{
+    position: absolute;
+    right: 248px;
+    top: 310px ;
+    background-color: #303030;
+    padding: 11px 16px;
+    border-radius: 5px;
+}
+.buttonn, .avideo, .aavideo{
+    text-decoration: none;
+}
+.buttonn:hover, .avideo:hover, .aavideo:hover{
+    text-decoration: none;
+}
+
+
+
+@media screen and (max-width:720px){
+    .videochg{
+        visibility: hidden;
+    }
+}
+
+
+/* =============================features================================================== */
+
+
+
+
+.features {
+    text-align: center;
+    background-color: #f7f7f7;
+}
+
+.rowcol1 {
+    text-align: left;
+    padding-top: 14px;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+.rowcol2 {
+    text-align: left;
+    padding-top: 14px;
+}
+
+.rowcol3 {
+    text-align: left;
+    padding-top: 14px;
+}
+
+.rowcol4 {
+    text-align: left;
+    padding-top: 14px;
+}
+
+.rowcol5 {
+    text-align: left;
+    padding-top: 14px;
+}
+
+.rowcol6 {
+    text-align: left;
+    padding-top: 14px;
+}
+
+.rowcol7 {
+    text-align: left;
+    padding-top: 14px;
+}
+
+.rowcol8 {
+    text-align: left;
+    padding-top: 14px;
+}
+
+.rowcol9 {
+    text-align: left;
+    padding-top: 14px;
+}
+
+.rowcol10 {
+    text-align: left;
+    padding-top: 14px;
+}
+
+.rowcol10 a:hover {
+    text-decoration: none;
+}
+
+.rowcol9 a:hover {
+    text-decoration: none;
+}
+
+.rowcol8 a:hover {
+    text-decoration: none;
+}
+
+.rowcol7 a:hover {
+    text-decoration: none;
+}
+
+.rowcol6 a:hover {
+    text-decoration: none;
+}
+
+.rowcol5 a:hover {
+    text-decoration: none;
+}
+
+.rowcol4 a:hover {
+    text-decoration: none;
+}
+
+.rowcol3 a:hover {
+    text-decoration: none;
+}
+
+.rowcol2 a:hover {
+    text-decoration: none;
+}
+
+.rowcol1 a:hover {
+    text-decoration: none;
+}
+
+
+/* ==========================================================case studies 4==================================== */
+
+
+.case {
+    text-align: center;
+}
+
+.pop p {
+    text-align: center;
+    padding: 3px 12px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.pop a:hover {
+    text-decoration: none;
+}
+
+
+.pop a{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+/* ================================================================================================================== */
+
+.pcase {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: 19px;
+}
+
+.imgui {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.imgui a:hover {
+    text-decoration: none;
+    color: #303030;
+}
+
+.medi{
+    display: block;
+    margin: auto;
+    width: 300px;
+}
+
+/* ========================================================================================================= */
+
+
+
+.sign {
+    background-color: #f7f7f7;
+    /* padding: 70px;
+    height: 224px; */
+    text-align: center;
+    padding-top: 45px;
+   padding-bottom: 27px;
+}
+
+.emil {
+   
+    padding: 0px 8px;
+    border: 1px solid gray;
+    border-radius: 4px;
+}
+
+.hhhhh {
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.si  .aa{
+    background-color: #aaaaaa;
+    padding: 6px 20px;
+    border-radius: 5px;
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+    margin-left: 6px;
+}
+.si  .aa:hover{
+    text-decoration: none;
+    color: white;
+}
+
+
+.si{
+  display: block;
+  margin: auto;
+}
+
+
+/* @media screen and (max-width:600px){
+    .sii > .aa{
+        width: 25px;
+        text-align: center;
+        display: block;
+        margin: auto;
+    }
+   .sii > .emil{
+       width: 150px;
+       text-align: center;
+       margin-bottom: 3px;
+   }
+} */
+
+
+@media screen and (max-width:700px){
+    .aa{
+        display: flex;
+        flex-direction: column;
+        margin-top: 8px;
+        padding-bottom: 20px;
+    }
+}
+
+/* ================================================footer==================================================================== */
+
+
+
+
+.ftcl {
+    background-image: url("texture.png");
+    background-color: #303030;
+}
+
+.acol a {
+    color: white;
+}
+
+.acol a:hover {
+    text-decoration: none;
+}
+
+.acol {
+    padding-top: 14px;
+    padding-left: 12px;
+}
+
+.fot P {
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    margin: 0px;
+    line-height: 2.5em;
+}
+  
+
+
+@media screen and (max-width:700px){
+    .acol{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        font-size: 11px;
+    }
+}
+
+.zd li{
+    display: inline;
+}
+
+.zdd li{
+    display: inline;
+}
+
+@media screen and (max-width:850px){
+    .zd li{
+        visibility: hidden;
+    }
+}
+
+
+
+
+/* ===========================media query===================================================== */
+
+@media screen and (max-width:900px){
+    .smm img{
+        
+        width: 100px;
+        display: block;
+        margin: auto; 
+       /* background-color: tomato; */
+        margin-bottom: 23px;
+        margin-top: 12px;
+    }
+}
+
+/* ===========================================form================================= */
+
+.fin{
+    border: 1px solid #aaaaaa;
+    border-radius: 5px;
+    padding: 2px;
+    width: 58%;
+    
+
+}
+.bscr{
+    background-color: #aaaaaa;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid #aaaaaa;
+    padding: 2px 23px;
+    cursor: pointer;
+
+}
+.fom{
+    margin: 0 auto;
+    max-width: 600px;
+    /* background-color: bisque; */
+    padding-bottom: 63px;
+    margin-top: 0px;
+   
+}
+
+.fomm{
+    background-color: #f7f7f7;
+}
+
+@media screen and (max-width:560px){
+    .fom{
+        display: flex;
+        flex-direction: column;
+    }
+    .fin{
+        width: 100%;
+        margin-bottom: 6px;
+
+       
+    }
+}
